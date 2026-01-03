@@ -48,7 +48,7 @@ Platform connecting tenants and landlords with backend integration, apartment ca
 E-commerce style application with product catalog, filters, and detailed product pages.  
 **Technologies:** React, JavaScript, SCSS  
 
-🔗 Demo: https://viktoriamyhailiak.github.io/react_phone-catalog/
+🔗 Demo: [Phone Catalog Demo](https://viktoriamyhailiak.github.io/react_phone-catalog/)
 📁 Code: https://github.com/viktoriamyhailiak/phone-catalog
 
 ---
@@ -57,7 +57,7 @@ E-commerce style application with product catalog, filters, and detailed product
 Task management app with asynchronous actions and UI feedback during operations.  
 **Technologies:** React, JavaScript  
 
-🔗 Demo: [ToDo App Demo] (https://viktoriamyhailiak.github.io/react_todo-app/)
+🔗 Demo: [ToDo App Demo](https://viktoriamyhailiak.github.io/react_todo-app/)
 📁 Code: https://github.com/viktoriamyhailiak/react-todo-app
 
 ---

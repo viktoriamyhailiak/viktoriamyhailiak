@@ -48,7 +48,7 @@ Platform connecting tenants and landlords with backend integration, apartment ca
 E-commerce style application with product catalog, filters, and detailed product pages.  
 **Technologies:** React, JavaScript, SCSS  
 
-🔗 Demo: [Phone Catalog Demo](https://viktoriamyhailiak.github.io/phone-catalog/)  
+🔗 Demo: https://viktoriamyhailiak.github.io/react_phone-catalog/
 📁 Code: https://github.com/viktoriamyhailiak/phone-catalog
 
 ---

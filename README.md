@@ -49,6 +49,7 @@ E-commerce style application with product catalog, filters, and detailed product
 **Technologies:** React, JavaScript, SCSS  
 
 🔗 Demo: [Phone Catalog Demo](https://viktoriamyhailiak.github.io/react_phone-catalog/)
+
 📁 Code: https://github.com/viktoriamyhailiak/phone-catalog
 
 ---
@@ -58,6 +59,7 @@ Task management app with asynchronous actions and UI feedback during operations.
 **Technologies:** React, JavaScript  
 
 🔗 Demo: [ToDo App Demo](https://viktoriamyhailiak.github.io/react_todo-app/)
+
 📁 Code: https://github.com/viktoriamyhailiak/react-todo-app
 
 ---

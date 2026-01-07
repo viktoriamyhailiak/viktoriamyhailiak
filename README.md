@@ -102,5 +102,5 @@ Responsive product landing page with modern layout and animations.
 
 ## 📫 Contact Me
 - GitHub: https://github.com/viktoriamyhailiak
-- Email: viktoriamyhailiak@gmail.com
+- Email: viktoriia.mykhailiak@gmail.com
 

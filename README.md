@@ -37,7 +37,6 @@
 Platform connecting tenants and landlords with backend integration, apartment catalog, filtering, and search.  
 **Frontend:** React  
 **Backend:** Node.js, Express  
-**Database:** PostgreSQL  
 
 🔗 Demo: [SmartRent Demo](https://uusuff.github.io/SmartRent/)  
 📁 Code: [GitHub Repository](https://github.com/Uusuff/SmartRent/tree/develop)  
